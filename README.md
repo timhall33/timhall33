@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 📫 How to reach me: timdhall33@gmail.com
 <!--
 **timhall33/timhall33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
